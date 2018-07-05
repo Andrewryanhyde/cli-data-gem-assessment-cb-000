@@ -2,6 +2,6 @@
 #!/usr/bin/env ruby
 
 require "bundler/setup"
-require "daily_deal"
+require "book_buddy"
 
 BookBuddy::CLI.new.call
